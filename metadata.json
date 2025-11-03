@@ -1,0 +1,5 @@
+{
+  "name": "BrickWorks Dashboard",
+  "description": "A web dashboard UI for a brick manufacturing management system, featuring login, header, and multiple responsive tabs for overview, Pathera, and Khadai management.",
+  "requestFramePermissions": []
+}
